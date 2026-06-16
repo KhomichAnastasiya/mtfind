@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/mtfind.dir/link.d CMakeFiles/mtfind.dir/main.cpp.o CMakeFiles/mtfind.dir/mtfind.cpp.o CMakeFiles/mtfind.dir/patternsearcher.cpp.o CMakeFiles/mtfind.dir/filereader.cpp.o CMakeFiles/mtfind.dir/output.cpp.o -o mtfind
